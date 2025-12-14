@@ -133,9 +133,9 @@ publications:
 ```yaml
 education:
   items:
-    - period: "2022.09 - 2026.06"
+    - period: "2014.09 - 2018.07"
       degree: "B.S."
-      school: "School of Future, Beijing University of Posts and Telecommunications"
+      school: "School of radiology, Taishan college of medical"
       school_logo: "images/bupt.jpg"
 ```
 
@@ -149,10 +149,10 @@ contact:
   items:
     - type: "email"
       icon: "fas fa-envelope"
-      content: "zhrli324@gmail.com"
+      content: "antonlu2022@outlook.com"
     - type: "location"
       icon: "fas fa-map-marker-alt"
-      content: "Beijing, China"
+      content: "Shandong, China"
 ```
 
 ## Usage Guide
@@ -179,6 +179,6 @@ contact:
 ## GitHub Repositories
 ```yaml
 github_repos:
-  username: "zhrli324"
+  username: "andongkeji"
   auto_sync: true # 自动同步，无需手动维护仓库列表
 ```
